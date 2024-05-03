@@ -9,3 +9,4 @@
 # Assignment 9:https://github.com/Chaman-1206/Btech-2-2-cse-aiml-2024-assignments/blob/main/2203A51098_ASSN_9.ipynb
 # Assignment 10:https://github.com/Chaman-1206/Btech-2-2-cse-aiml-2024-assignments/blob/main/2203A51098_ASSN_10.ipynb
 # Assignment 11:https://github.com/Chaman-1206/Btech-2-2-cse-aiml-2024-assignments/blob/main/2203A51098%20ASSN-11.ipynb
+# Project-Stock price prediction: https://github.com/Chaman-1206/Btech-2-2-cse-aiml-2024-assignments/blob/main/Stock_Price_Prediction.ipynb
